@@ -1,2 +1,2 @@
-const my_name = "archit sharma1"
+const my_name = "archit sharma"
 const name = "rajendra"
