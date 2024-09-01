@@ -1,2 +1,1 @@
-const my_name = "archit sharma"
-const name = "rajendra123"
+const my_name = "archit sharma1"
